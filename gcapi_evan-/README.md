@@ -1,7 +1,5 @@
 **Garden Center API**
 
-This RESTful API follows the Business/Technical Requirements specified in the GCAPI project instructions found [here](https://docs.google.com/document/d/1Wvulm4bhMcKJyaK2fkuNUiqN0p7QdssoJKG4M-JfOBM/edit#). (This link can only be accessed if user has permissions.)
-
 ### Setup
 1. Start a basic MongoDB Docker container 
 ```
